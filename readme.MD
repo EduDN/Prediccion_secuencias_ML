@@ -43,3 +43,7 @@ La aplicación se iniciará en su navegador web.
 ## Contribuir
 
 Las contribuciones a este repositorio son bienvenidas. Por favor, antes de realizar cualquier cambio, abra un issue para discutir lo que le gustaría cambiar.
+
+Contacto: 
+
+navarrete.eduardo@hotmail.com
